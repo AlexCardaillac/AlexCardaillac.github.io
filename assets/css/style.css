@@ -409,6 +409,7 @@ h6 {
 
 #hero .hero-img img {
   width: 70%;
+  max-width: 290px;
 }
 
 @media (min-width: 1024px) {
